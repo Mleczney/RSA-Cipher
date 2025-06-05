@@ -1,0 +1,17 @@
+C:\Users\KKata\source\repos\RSA\RSA\bin\Debug\net6.0-windows\RSA.exe
+C:\Users\KKata\source\repos\RSA\RSA\bin\Debug\net6.0-windows\RSA.deps.json
+C:\Users\KKata\source\repos\RSA\RSA\bin\Debug\net6.0-windows\RSA.runtimeconfig.json
+C:\Users\KKata\source\repos\RSA\RSA\bin\Debug\net6.0-windows\RSA.dll
+C:\Users\KKata\source\repos\RSA\RSA\bin\Debug\net6.0-windows\RSA.pdb
+C:\Users\KKata\source\repos\RSA\RSA\obj\Debug\net6.0-windows\RSA.Form1.resources
+C:\Users\KKata\source\repos\RSA\RSA\obj\Debug\net6.0-windows\RSA.csproj.GenerateResource.cache
+C:\Users\KKata\source\repos\RSA\RSA\obj\Debug\net6.0-windows\RSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KKata\source\repos\RSA\RSA\obj\Debug\net6.0-windows\RSA.AssemblyInfoInputs.cache
+C:\Users\KKata\source\repos\RSA\RSA\obj\Debug\net6.0-windows\RSA.AssemblyInfo.cs
+C:\Users\KKata\source\repos\RSA\RSA\obj\Debug\net6.0-windows\RSA.csproj.CoreCompileInputs.cache
+C:\Users\KKata\source\repos\RSA\RSA\obj\Debug\net6.0-windows\RSA.dll
+C:\Users\KKata\source\repos\RSA\RSA\obj\Debug\net6.0-windows\refint\RSA.dll
+C:\Users\KKata\source\repos\RSA\RSA\obj\Debug\net6.0-windows\RSA.pdb
+C:\Users\KKata\source\repos\RSA\RSA\obj\Debug\net6.0-windows\RSA.genruntimeconfig.cache
+C:\Users\KKata\source\repos\RSA\RSA\obj\Debug\net6.0-windows\ref\RSA.dll
+C:\Users\KKata\source\repos\RSA\RSA\obj\Debug\net6.0-windows\RSA.Properties.Resources.resources
